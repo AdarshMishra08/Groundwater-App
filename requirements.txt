@@ -8,3 +8,4 @@ numpy
 matplotlib
 requests
 scikit-learn
+psycopg2-binary

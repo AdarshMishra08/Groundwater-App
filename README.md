@@ -34,6 +34,8 @@ pip install -r requirements.txt
 ## Run
 
 **1. Start the backend** (from `backend/`):
+OR
+Double Click .bat file for backend
 
 ```bash
 cd backend
